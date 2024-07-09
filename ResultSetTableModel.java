@@ -1,6 +1,6 @@
 /*
 Name: Antonio Urdaneta
-Two-tier Client-Server Application
+Result Set Helper Class
 Date: July 7, 2024
 */
 
