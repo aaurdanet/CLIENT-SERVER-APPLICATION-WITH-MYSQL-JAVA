@@ -1,5 +1,5 @@
 # SQL commands to create and populate the MySQL database 
-
+#
 # delete the database if it already exists
 drop database if exists project2;
 
