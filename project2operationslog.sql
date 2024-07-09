@@ -1,5 +1,4 @@
-# SQL commands to create and populate the operations log database for Project Two
-# CNT 4714 - Summer 2024
+# SQL commands to create and populate the operations log database 
 #
 # delete the database if it already exists
 drop database if exists operationslog;
