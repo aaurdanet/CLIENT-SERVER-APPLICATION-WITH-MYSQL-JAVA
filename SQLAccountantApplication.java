@@ -1,9 +1,7 @@
 /*
 Name: Antonio Urdaneta
-Course: CNT 4714 Summer 2024
-Assignment title: Project 2 – A Specialized Accountant Applicatio
+Specialized Accountant Application
 Date: July 7, 2024
-Class: CNT 4714
 */
 
 import javax.swing.*;
